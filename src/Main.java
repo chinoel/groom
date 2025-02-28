@@ -12,5 +12,6 @@ public class Main {
         System.out.println("test");
         System.out.println("upload");
         System.out.println("download");
+        System.out.println("test");
     }
 }
